@@ -1,13 +1,10 @@
----
-
 ## 👥 **Crédits**
 
-Ce projet a été réalisé par :  
-- **Aymen Kadri**  
-- **Ismail Laghzaoui**  
-- **Bushra Hossain**
+Ce projet a été réalisé par :
 
----
+- **Aymen Kadri**
+- **Ismail Laghzaoui**
+- **Bushra Hossain**
 
 ## 📚 \*_Description_
 
